@@ -9,14 +9,3 @@ It uses a dark, glassy theme with responsive layout and accessibility in mind.
 - Polished cards, hover interactions, and focus rings
 - Gallery with placeholder images from picsum.photos
 
-## Run locally
-1. Install Node.js (>=18) and npm
-2. Run:
-   ```bash
-   npm install
-   npm run dev
-   ```
-3. Open the dev server (usually http://localhost:5173)
-
-## Deploy
-Push to GitHub and deploy on Vercel/Netlify. Vite projects are auto-detected by both platforms.
