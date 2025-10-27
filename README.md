@@ -3,4 +3,4 @@
 This is an  Figma assignment built with Vite + React + Tailwind CSS.
 It uses a dark, glassy theme with responsive layout and accessibility in mind.
 
-
+(https://img-c.udemycdn.com/course/750x422/4296386_3a96.jpg)
